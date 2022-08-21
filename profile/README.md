@@ -1,11 +1,7 @@
-# Welcome to OrbitDB! ☄️💫
+☄️💫 [`OrbitDB`](https://github.com/orbitdb/orbit-db) is a serverless, distributed, peer-to-peer database. `orbit-db` uses [IPFS](https://ipfs.io/) as its data storage and [IPFS Pubsub](https://github.com/ipfs/go-ipfs/blob/master/core/commands/pubsub.go#L23) to automatically sync databases with peers. OrbitDB achieves strong eventual consistency (when all updates are eventually received, all nodes will have the same state) by using [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type), making `orbit-db` an excellent choice for offline-first applications.
 
 [![](https://img.shields.io/badge/project-orbit-red.svg?style=flat-square)](https://github.com/orbitdb/orbitdb)
 [![Matrix](https://img.shields.io/matrix/orbit-db:matrix.org?label=chat%20on%20matrix)](https://app.element.io/#/room/#orbit-db:matrix.org)
-
-[`OrbitDB`](https://github.com/orbitdb/orbit-db) is a serverless, distributed, peer-to-peer database. `orbit-db` uses [IPFS](https://ipfs.io/) as its data storage and [IPFS Pubsub](https://github.com/ipfs/go-ipfs/blob/master/core/commands/pubsub.go#L23) to automatically sync databases with peers. OrbitDB achieves strong eventual consistency (when all updates are eventually received, all nodes will have the same state) by using [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type), making `orbit-db` an excellent choice for offline-first applications.
-
-This organization is a place to bring together all of the Orbit repositories, and to work together on making OrbitDB better.
 
 ## Table of Contents
 
@@ -13,7 +9,7 @@ This organization is a place to bring together all of the Orbit repositories, an
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Funding](#funding)
-- [Repositories](#repositories)
+- [Repositories and Architecture](#repositories)
   - [Code-free repositories](#code-free-repositories)
   - [OrbitDB](#orbitdb)
   - [Orbit Chat](#orbit-chat)
@@ -30,11 +26,11 @@ This organization is a place to bring together all of the Orbit repositories, an
 
 OrbitDB is currently funded by [OpenCollective](https://opencollective.com/orbitdb). Please visit our page there to learn more.
 
-## Repositories
+## Repositories and Architecture
 
-The [@orbitdb](https://github.com/orbitdb) organization on GitHub contains many different repositories. For the most part, these fall into three categories: code which relates to OrbitDB, the peer to peer database for the decentralized web; Orbit Chat, a decentralized chat program built using OrbitDB; and various non-code repositories.
+The [@orbitdb](https://github.com/orbitdb) organization on GitHub contains many different repositories. For the most part, these are either code which relates to OrbitDB, or are various non-code repositories for documentation and the like.
 
-![OrbitDB Dependency Graph](./images/OrbitDB_Dependency_Graph.jpg)
+![OrbitDB Dependency Graph](https://raw.githubusercontent.com/orbitdb/welcome/main/images/OrbitDB_Dependency_Graph.jpg)
 
 ### Code-free repositories
 
