@@ -38,7 +38,6 @@ The [@orbitdb](https://github.com/orbitdb) organization on GitHub contains many 
 
 ### Code-free repositories
 
-- The **[welcome](https://github.com/orbitdb/welcome)** community repo, which you're in right now;
 - **[awesome-orbitdb](https://github.com/orbitdb/awesome-orbitdb)**, which is an attempt to list everything that is using OrbitDB, or could help people. Basically, what has been built? And;
 - **[research](https://github.com/orbitdb/research)**, where you can find research papers and interesting research work on CRDTs and the like.
 - **[logo](https://github.com/orbitdb/logo)**, Orbit's brand files, formats and guidelines
@@ -71,21 +70,6 @@ And then, there are a whole host of modules. It should be noted that **all** of 
 - **[orbit-db-benchmark-runner](https://github.com/orbitdb/benchmark-runner)** - Benchmark runner for compatible orbit-db repositories.
 - **[orbit-db-storage-adapter](https://github.com/orbitdb/orbit-db-storage-adapter)** - Adapter for any leveldown-compliant store
 - **[orbit-db-io](https://github.com/orbitdb/orbit-db-io)** - IO helper module used within OrbitDB
-
-### Orbit Chat
-
-And then there is the Orbit Chat, which is a chat program built on top of OrbitDB. These will most likely be renamed at some point to stop the confusion. The most important repository is:
-
-- **[orbit-web](https://github.com/orbitdb/orbit-web)** - The browser client of Orbit Chat.
-
-Other repositories include:
-
-- **[orbit](https://github.com/orbitdb/orbit)** - This is a landing page repo, without code, and may be the start for a new Orbit Chat org if we end up making one. It needs to be updated.
-- **[orbit-core](https://github.com/orbitdb/orbit-core)** -
-The JavaScript npm module that implements the Orbit Chat protocol.
-- **[orbit-electron](https://github.com/orbitdb/orbit-electron)** - Desktop application for Orbit Chat. Uses orbit-core and IPFS.
-- **[orbit-textui](https://github.com/orbitdb/orbit-textui)** - A terminal client for Orbit Chat.
-- **[orbit-bot](https://github.com/orbitdb/orbit-bot)** - Unsurprisingly, a bot for Orbit Chat.
 
 ### Multilingual Implementations
 
