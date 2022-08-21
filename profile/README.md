@@ -14,8 +14,7 @@ This organization is a place to bring together all of the Orbit repositories, an
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
-- [Biweekly Calls](#biweekly-calls)
+- [Funding](#funding)
 - [Repositories](#repositories)
   - [Code-free repositories](#code-free-repositories)
   - [OrbitDB](#orbitdb)
@@ -29,11 +28,9 @@ This organization is a place to bring together all of the Orbit repositories, an
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Calls
+## Funding
 
-We sometimes have community calls. At the moment, these are in abeyance. However, if you feel that it would be good to have a call with the OrbitDB community, simply open an issue and ask if others would like to join in.
-
-We do not record these calls, as we want people to feel comfortable joining in and talking without worrying about being recorded. Old notes for meetings are in `meeting-notes`.
+OrbitDB is currently funded by [OpenCollective](https://opencollective.com/orbitdb). Please visit our page there to learn more.
 
 ## Repositories
 
