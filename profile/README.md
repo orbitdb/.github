@@ -1,11 +1,9 @@
-# Welcome to OrbitDB!
+# Welcome to OrbitDB! ☄️💫
 
 [![](https://img.shields.io/badge/project-orbit-red.svg?style=flat-square)](https://github.com/orbitdb/orbitdb)
 [![Matrix](https://img.shields.io/matrix/orbit-db:matrix.org?label=chat%20on%20matrix)](https://app.element.io/#/room/#orbit-db:matrix.org)
 
-> ☄️💫 The OrbitDB community and documentation repo
-
-[`orbit-db`](https://github.com/orbitdb/orbit-db) is a serverless, distributed, peer-to-peer database. `orbit-db` uses [IPFS](https://ipfs.io/) as its data storage and [IPFS Pubsub](https://github.com/ipfs/go-ipfs/blob/master/core/commands/pubsub.go#L23) to automatically sync databases with peers. OrbitDB achieves strong eventual consistency (when all updates are eventually received, all nodes will have the same state) by using [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type), making `orbit-db` an excellent choice for offline-first applications.
+[`OrbitDB`](https://github.com/orbitdb/orbit-db) is a serverless, distributed, peer-to-peer database. `orbit-db` uses [IPFS](https://ipfs.io/) as its data storage and [IPFS Pubsub](https://github.com/ipfs/go-ipfs/blob/master/core/commands/pubsub.go#L23) to automatically sync databases with peers. OrbitDB achieves strong eventual consistency (when all updates are eventually received, all nodes will have the same state) by using [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type), making `orbit-db` an excellent choice for offline-first applications.
 
 This organization is a place to bring together all of the Orbit repositories, and to work together on making OrbitDB better.
 
