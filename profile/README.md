@@ -16,6 +16,7 @@
   - [Multilingual Implementations](#multilingual-implementations)
   - [Other repositories?](#other-repositories)
   - [Naming](#naming)
+- [Press](#press)
 - [Registries](#registries)
 - [Contribute](#contribute)
 - [License](#license)
@@ -35,7 +36,6 @@ The [@orbitdb](https://github.com/orbitdb) organization on GitHub contains many 
 ### Code-free repositories
 
 - **[awesome-orbitdb](https://github.com/orbitdb/awesome-orbitdb)**, which is an attempt to list everything that is using OrbitDB, or could help people. Basically, what has been built?
-- **[logo](https://github.com/orbitdb/logo)**, Orbit's brand files, formats and guidelines
 
 ### OrbitDB
 
@@ -73,6 +73,10 @@ There has been a recent explosion of awesome, ambitions, community-driven work t
 These repos started as community efforts and were brought into the organization soon after. However, search GitHub - there's a lot more.
 
 The best place to find out what is available is likely by asking in the [Gitter](https://gitter.im/orbitdb/Lobby). If you know of any other repos that ought to be included in this section, point them out to us!
+
+### Press
+
+Materials for press (logos, formats, guidelines, etc) are available **[here](https://github.com/orbitdb/logo)**. For interviews etc, reach out to [@aphelionz](https://twitter.com/aphelionz) on Twitter.
 
 ### Other repositories?
 
