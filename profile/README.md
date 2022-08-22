@@ -9,10 +9,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Funding](#funding)
-- [Repositories and Architecture](#repositories)
+- [Repositories and Architecture](#repositories-and-architecture)
   - [Code-free repositories](#code-free-repositories)
   - [OrbitDB](#orbitdb)
-  - [Orbit Chat](#orbit-chat)
   - [Multilingual Implementations](#multilingual-implementations)
   - [Other repositories?](#other-repositories)
   - [Naming](#naming)
