@@ -102,7 +102,7 @@ We maintain OrbitDB accounts on these registries:
 
 Please contribute! [Dive into the issues](https://github.com/orbitdb/orbitdb/issues)!
 
-Check out our [contributing document](contributing.md) for more information on how we work, and about contributing in general. Please be aware that all interactions related to OrbitDB are subject to the OrbitDB [Code of Conduct](CODE_OF_CONDUCT.md).
+Check out our [contributing document](/CONTRIBUTING.md) for more information on how we work, and about contributing in general. Please be aware that all interactions related to OrbitDB are subject to the OrbitDB [Code of Conduct](CODE_OF_CONDUCT.md).
 
 Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
