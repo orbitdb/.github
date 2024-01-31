@@ -5,7 +5,7 @@ OrbitDB is a serverless, distributed, peer-to-peer database. OrbitDB uses [IPFS]
 
 ## Funding
 
-OrbitDB is currently funded by [OpenCollective](https://opencollective.com/orbitdb). Please visit our page there to learn more.
+OrbitDB is currently funded by our community. If you would like to contribute, you can do so via [OpenCollective](https://opencollective.com/orbitdb) or via our cryptocurrency wallets. Please visit [our funding page](https://github.com/orbitdb/funding) to find out more.
 
 ## Installation
 
@@ -41,13 +41,13 @@ The best place to find out what is available is likely by asking in the [Matrix]
 
 ### Press
 
-Materials for press (logos, formats, guidelines, etc) are available **[here](https://github.com/orbitdb/logo)**. For interviews etc, reach out to [@aphelionz](https://twitter.com/aphelionz) on Twitter.
+Materials for press (logos, formats, guidelines, etc) are available **[here](https://github.com/orbitdb/logo)**. For interviews etc, [reach out to us in an email](mailto:info@orbitdb.org).
 
 ### Other repositories?
 
 There are other repositories that aren't in the organization around the web which are important - for instance, of course, [ipfs](https://github.com/ipfs/ipfs). For now, these are the main ones in the @orbitdb organization.
 
-If there is something missing form this list, please let us know! Either open a PR or an issue, and we'll add it. Thank you.
+If there is something missing from this list, please let us know! Either open a PR or an issue, and we'll add it. Thank you.
 
 ## Registries
 
@@ -63,8 +63,8 @@ Check out our [contributing document](/CONTRIBUTING.md) for more information on 
 
 Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
-This repository is maintained by [@RichardLitt](https://github.com/RichardLitt). If you've got any questions for him, feel free to open an issue or a pull request, or to [email him](mailto:richardlitt@orbitdb.org) privately. we're always looking for more maintainers!
+If you've got any questions, feel free to join us on [Matrix](https://app.element.io/#/room/#orbit-db:matrix.org) or [email us](mailto:info@orbitdb.org). If you experience bugs or wish to contribute an improvement or a new feature, you can open an issue or a pull request.
 
 ## License
 
-This repository is only for documents. All of these are licensed under the [CC-BY-SA 3.0](LICENSE) license © 2016-2018 Protocol Labs Inc., Haja Networks Oy. Any code is under a [MIT](LICENSE) © 2016-2018 Protocol Labs Inc., Haja Networks Oy.
+This repository is only for documents. All of these are licensed under the [CC-BY-SA 3.0](LICENSE) license © 2016-2024 Protocol Labs Inc., Haja Networks Oy. Any code is under a [MIT](LICENSE) © 2016-2024 Protocol Labs Inc., Haja Networks Oy.
